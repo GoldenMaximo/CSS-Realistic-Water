@@ -3,6 +3,14 @@
 
 ![](demo.gif)
 
+### [URL demo](https://goldenmaximo.github.io/CSS-Realistic-Water/)
+
+#### You can change the strenght of the animation by using the zoom on your browser (CTRL + SCROLL on Chrome)
+
+<br>
+
+<hr>
+
 First I selected an image which had this kind of water surrounded by rock vibe which was easier to make the effect seem more realistic with:
 
 ![](seashore.jpg)
